@@ -57,4 +57,4 @@ I'm a robotics engineer 💻, and C++ developer 🎨!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basavaraj-PN&layout=compact)](https://github.com/Basavaraj-PN)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Basavaraj-PN.Basavaraj-PN)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Basavaraj-PN.Basavaraj-PN)](https://www.linkedin.com/in/basavaraj-pn-242694141/)
