@@ -1,8 +1,7 @@
-### Hi there 👋
-
+<p align="center">
 <img src="<https://user-images.githubusercontent.com/23361336/246661066-88ce667a-6e0c-46b6-beda-9ea4d954d3b2.png>" alt=”my banner”>
-
-**Basavaraj-PN/Basavaraj-PN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<!-- **Basavaraj-PN/Basavaraj-PN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
