@@ -7,20 +7,15 @@ Hi there, I'm <a href="https://www.linkedin.com/in/basavaraj-pn-242694141/" targ
 </h3>
 
 <h2 align="center">
-I'm a robotics engineer 💻, and Designer 🎨!
+I'm a robotics engineer 💻, and C++ developer 🎨!
 </h2>
 
 </br>
 
 
-
-
-
-
-
 ### 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/basavaraj-pn-242694141/"><img align="left" src="https://raw.githubusercontent.com/Basavaraj-PN/Basavaraj-PN/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/basavaraj-pn-242694141/"><img align="left" src="https://raw.githubusercontent.com/Basavaraj-PN/Basavaraj-PN/main/images/linkedin.svg" alt="Basavaraj PN | LinkedIn" width="21px"/></a>
 
 <a href="https://instagram.com/basavaraj.p.n"><img align="left" src="https://raw.githubusercontent.com/Basavaraj-PN/Basavaraj-PN/main/images/instagram.svg" alt="Basavaraj | Instagram" width="21px"/></a>
 
