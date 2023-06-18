@@ -44,6 +44,8 @@ I'm a robotics engineer 💻, and C++ developer 🎨!
 
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-CARLA-informational?style=flat&logo=GitHub&color=181717)
+
 
 ## 📝 Latest Blog Posts
 
