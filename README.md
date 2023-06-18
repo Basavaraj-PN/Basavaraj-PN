@@ -36,10 +36,9 @@ I'm a robotics engineer 💻, and C++ developer 🎨!
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=cpp&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=python&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=ros&color=F7DF1E)
-
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=cpp&color=61DAFB)
+![](https://img.shields.io/badge/Code-Ros-informational?style=flat&logo=python&color=764ABC)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=ros&color=F7DF1E)
 
 
 
