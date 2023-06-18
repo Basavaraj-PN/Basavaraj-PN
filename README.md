@@ -2,12 +2,10 @@
 <img src="https://user-images.githubusercontent.com/23361336/246661066-88ce667a-6e0c-46b6-beda-9ea4d954d3b2.png" alt=”my banner”>
 </p>
 
-
-
 ![Basavaraj-PN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Basavaraj-PN&show_icons=true&theme=radical&show_icons=true&show=reviews)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Basavaraj-PN&repo=github-readme-stats)](https://github.com/Basavaraj-PN/github-readme-stats)
-
+SKILS
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)u
 
 <!-- **Basavaraj-PN/Basavaraj-PN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
