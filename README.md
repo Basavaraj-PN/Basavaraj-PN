@@ -10,13 +10,12 @@ Hi there, I'm <a href="https://www.linkedin.com/in/basavaraj-pn-242694141/" targ
 I'm a robotics engineer 💻, and Designer 🎨!
 </h2>
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/Basavaraj-PN/Basavaraj-PN/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/Basavaraj-PN/Basavaraj-PN/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/Basavaraj-PN/Basavaraj-PN/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/basavaraj-pn-242694141/"><img align="left" src="https://raw.githubusercontent.com/Basavaraj-PN/Basavaraj-PN/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/basavaraj.p.n"><img align="left" src="https://raw.githubusercontent.com/Basavaraj-PN/Basavaraj-PN/main/images/instagram.svg" alt="Basavaraj | Instagram" width="21px"/></a>
+<a href="https://medium.com/@bnarasapur"><img align="left" src="https://raw.githubusercontent.com/Basavaraj-PN/Basavaraj-PN/main/images/medium.svg" alt="Basavaraj P N | Medium" width="21px"/></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
