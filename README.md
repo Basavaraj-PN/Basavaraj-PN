@@ -12,6 +12,9 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
+
 <!-- **Basavaraj-PN/Basavaraj-PN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
