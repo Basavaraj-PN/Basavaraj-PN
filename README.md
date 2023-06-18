@@ -1,6 +1,9 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/23361336/246661066-88ce667a-6e0c-46b6-beda-9ea4d954d3b2.png" alt=”my banner”>
 </p>
+
+[![Basavbaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Basavaraj-PN)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- **Basavaraj-PN/Basavaraj-PN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
