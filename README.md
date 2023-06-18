@@ -10,6 +10,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/basavaraj-pn-242694141/" targ
 I'm a robotics engineer 💻, and Designer 🎨!
 </h2>
 
+</br>
 
 ### 🤝 Connect with me
 
@@ -35,6 +36,10 @@ I'm a robotics engineer 💻, and Designer 🎨!
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=python&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=ros&color=F7DF1E)
 
+
+
+
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📝 Latest Blog Posts
 
